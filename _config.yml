@@ -1,0 +1,5 @@
+plugins:
+  - jekyll-feed
+title: iloy’s blog
+description: 평범한 일을 날마다 평범한 기분으로. 아마그래머.
+author: iloy
