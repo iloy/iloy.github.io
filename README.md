@@ -5,13 +5,10 @@
 [RSS](/feed.xml)
 
 ---
-
-[2020-04-10 created](/2020/04/10/created)
-
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ post.url }}">{{ post.date }} {{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
