@@ -13,6 +13,8 @@ Talk is cheap. Show me the code.
 No Silver Bullet.
 ```
 
+<link rel="alternate" type="application/atom+xml" title="iloy’s blog" href="/feed.xml">
+
 [RSS](/feed.xml)
 
 ---
