@@ -19,7 +19,7 @@ layout: null
       {% endif %}
 
       {% if post.sitemap.priority == null %}
-          <priority>0.5</priority>
+        <priority>0.5</priority>
       {% else %}
         <priority>{{ post.sitemap.priority }}</priority>
       {% endif %}
@@ -30,7 +30,9 @@ layout: null
     {% if page.layout != nil %}
     {% if page.layout != 'feed' %}
     <url>
-        <loc>{{ site.url }}{{ page.url | remove: 'index.html' }}</loc>
+      <loc>{{ site.url }}{{ page.url | remove: 'index.html' }}</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.5</priority>
     </url>
     {% endif %}
     {% endif %}
