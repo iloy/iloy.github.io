@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Python sucks"
+title:  "Python Sucks"
 ---
 
 아 개발자들아, 나중에 성능이 조금이라도 중요해질 가능성이 있는 프로그램은 **제발제발제발** Python 으로 만들지 않길 바래.
