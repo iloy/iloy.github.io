@@ -1,6 +1,5 @@
 # 평범한 일을 날마다 평범한 기분으로. 아마그래머.
-### https://iloy.github.io
-### // by iloy today
+<h3> https://iloy.github.io<br/>// by iloy today</h3>
 
 ```
 이 더러운 세계를 하나님이 창조하셨다면 나는 그 하나님을 섬길 마음이 없다.
