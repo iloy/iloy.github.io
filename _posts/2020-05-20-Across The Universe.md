@@ -7,4 +7,4 @@ title:  "Across The Universe"
 
 https://www.youtube.com/watch?v=90M60PzmxEE
 
-{% include youtubePlayer.html id=90M60PzmxEE %}
+{% include youtubePlayer.html id="90M60PzmxEE" %}
