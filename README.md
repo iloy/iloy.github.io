@@ -10,6 +10,9 @@
 나는 내가 생각한 것보다 훨씬 약하다.
 평범한 일을 날마다 평범한 기분으로.
 Talk is cheap. Show me the code.
+not curable but manageable.
+컴퓨터따윈 끊은지 오래다ㅋ.
+코드보다 더 중요한 게 있다.
 오늘은 얼마나 재밌게 놀까?
 No Silver Bullet.
 ```
