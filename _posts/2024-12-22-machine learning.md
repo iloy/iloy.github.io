@@ -9,7 +9,7 @@ machine learning 이 한참 유행을 탄지 이제 꽤 되었는데,
 
 방금 점심을 먹다가 떠오른 또 다른 생각은 anomaly detection 정도인데
 이미 이거 조사해 놓은 훌륭한 분들이 계시구만.
-[https://arxiv.org/abs/2412.11142](AD-LLM: Benchmarking Large Language Models for Anomaly Detection)
+[AD-LLM: Benchmarking Large Language Models for Anomaly Detection](https://arxiv.org/abs/2412.11142)
 온갖 데이터를 다 때려넣어서 LLM 을 만드니 zero-shot 이 되는구나.
 근데 이것 역시 공돌이한테나 유용한 분야겠지....
 
